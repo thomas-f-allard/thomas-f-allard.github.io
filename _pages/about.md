@@ -2,18 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
+subtitle: Postdoctoral researcher @ Universidad Autónoma de Madrid
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> thomas.allard at uam.es </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,8 +20,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
  
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! I am a theoretical physicist working at the interface between condensed matter physics and photonics. I am interested in exotic wave phenomena arising in peculiar media that could be disordered, topological, polaritonic and/or time-varying. 
+Since October 2024 I am a postdoctoral researcher in Paloma A. Huidobro's group at the Universidad Autónoma de Madrid, working on the ERC-funded project TIMELIGHT (Time-Varying Nanophotonics for New Regimes of Light-Matter Interactions).
+Before that, I completed my PhD in 2023 at the University of Strasbourg with Guillaume Weick, and then stayed there for a year as a temporary lecturer (ATER).
