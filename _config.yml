@@ -147,6 +147,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/teaching.md
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -211,7 +212,7 @@ jekyll-archives:
 
 scholar:
   last_name: [Allard]
-  first_name: [Thomas, F.]
+  first_name: [Thomas F.]
 
   style: apa
   locale: en
