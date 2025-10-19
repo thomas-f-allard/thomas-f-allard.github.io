@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"preprint":
+  url: https://arxiv.org/
+  color: "#bcbcbc"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"Phys. Rev. B":
+  url: https://journals.aps.org/prb/
+  color: "#c01010"
+  
+"ACS Photonics":
+  url: https://pubs.acs.org/journal/apchd5
+  color: "#f1c232"
