@@ -20,6 +20,7 @@ social: true # includes social icons at the bottom of the page
   # limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 #<div style="text-align: justify">
-Hi! I am a theoretical physicist working at the interface between condensed matter physics and photonics. I am interested in exotic wave phenomena arising in peculiar media that could be disordered, topological, polaritonic and/or time-varying. \
-  Since October 2024, I am a postdoctoral researcher in [Paloma A. Huidobro's group](https://members.ifimac.uam.es/parroyohuidobro/) at the [Universidad Autónoma de Madrid](https://www.ifimac.uam.es/), working on the ERC-funded project [TIMELIGHT](https://members.ifimac.uam.es/parroyohuidobro/erc-timelight/) (Time-Varying Nanophotonics for New Regimes of Light-Matter Interactions). Before that, I completed [my PhD](https://theses.hal.science/tel-04586338/) in 2023 at the University of Strasbourg with [Guillaume Weick](https://www.ipcms.fr/guillaume-weick/), and then stayed there for a year as a temporary lecturer (ATER).
+Hi! I am a theoretical physicist working at the interface between condensed matter physics and photonics. I am interested in exotic wave phenomena arising in peculiar media that could be disordered, topological, polaritonic and/or time-varying.
+
+Since October 2024, I am a postdoctoral researcher in [Paloma A. Huidobro's group](https://members.ifimac.uam.es/parroyohuidobro/) at the [Universidad Autónoma de Madrid](https://www.ifimac.uam.es/), working on the ERC-funded project [TIMELIGHT](https://members.ifimac.uam.es/parroyohuidobro/erc-timelight/) (Time-Varying Nanophotonics for New Regimes of Light-Matter Interactions). Before that, I completed [my PhD](https://theses.hal.science/tel-04586338/) in 2023 at the University of Strasbourg with [Guillaume Weick](https://www.ipcms.fr/guillaume-weick/), and then stayed there for a year as a temporary lecturer (ATER).
 #</div>
