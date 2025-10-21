@@ -6,7 +6,7 @@ description: publications by categories in reversed chronological order. #genera
 nav: true
 nav_order: 1
 ---
-A complete list of my publications can also be found in the [arXiv](https://arxiv.org/a/allard_t_1.html).
+A complete list of my publications can also be found in the <a href="https://arxiv.org/a/allard_t_1.html">arXiv</a>
 
 <!-- _pages/publications.md -->
 
