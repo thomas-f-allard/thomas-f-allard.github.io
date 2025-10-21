@@ -13,6 +13,7 @@
   contents:
     - title: PhD
       institution: University of Strasbourg, France
+      Disorder and Topology in Strongly-Coupled Light-Matter Systems, advised by Guillaume Weick
       year: 2023
       description: Disorder and Topology in Strongly-Coupled Light-Matter Systems, advised by Guillaume Weick
           #contents:
@@ -40,7 +41,7 @@
       institution: University of Strasbourg, France
       year: 2023-2024
       description:
-        - Research with Guillaume Weick and David Hagenmüller
+        - Group of Guillaume Weick, in collaboration with David Hagenmüller
         - Teaching assistant for courses of Computer Sciences (1st year), Advanced Classical Mechanics (2nd year) and Statistical Physics (3rd and 4th years) 
 
     # - title: Director
