@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-curriculum-vitæ",
-          title: "curriculum vitæ",
+        },{id: "nav-cv",
+          title: "cv",
           description: "A full CV is available [here](https://thomas-f-allard.github.io/assets/pdf/example_pdf.pdf)",
           section: "Navigation",
           handler: () => {
