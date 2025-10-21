@@ -1,12 +1,12 @@
-- title: Brief CV
-  type: map
-  contents:
-    - name: Full Name
-      value: Thomas F. Allard
-    - name: Date of Birth
-      value: 5th January 1997
-    - name: Languages
-      value: French (native), English (fluent), Spanish (intermediate), German (intermediate)
+# - title: Brief CV
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Thomas F. Allard
+#     - name: Date of Birth
+#       value: 5th January 1997
+#     - name: Languages
+#       value: French (native), English (fluent), Spanish (intermediate), German (intermediate)
 
 - title: Education
   type: time_table
@@ -14,17 +14,19 @@
     - title: PhD
       institution: University of Strasbourg, France
       year: 2023
-      description:
-        - Disorder and Topology in Strongly-Coupled Light-Matter Systems
-        - Thesis advisor: Guillaume Weick
+      description: Disorder and Topology in Strongly-Coupled Light-Matter Systems, advised by Guillaume Weick
           #contents:
             #- Sub-description 1.
             #- Sub-description 2.
     - title: Master degree
       institution: Ecole Normale Supérieure de Paris, France
       year: 2020
-      description:
-        - International Center for Fundemantal Physics, Theoretical Physics track (with honours)
+      description: International Center for Fundamental Physics, Theoretical Physics track (with honours)
+    - title: Agrégation de Sciences Physiques
+      institution: French Ministry of National Education
+      year: 2019
+      description: Competitive examination to be appointed as a physics teacher in secondary schools or universities
+
 
 - title: Experience
   type: time_table
