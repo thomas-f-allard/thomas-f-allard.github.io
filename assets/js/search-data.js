@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "A full CV is available [here](https://thomas-f-allard.github.io/assets/pdf/example_pdf.pdf)",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
