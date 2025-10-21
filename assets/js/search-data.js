@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "publications by categories in reversed chronological order. a complete list can also be found in [arxiv](https://arxiv.org/a/allard_t_1.html)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "A full CV is available [here](https://thomas-f-allard.github.io/assets/pdf/example_pdf.pdf)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
