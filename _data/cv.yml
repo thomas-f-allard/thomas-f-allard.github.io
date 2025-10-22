@@ -1,12 +1,12 @@
- - title: Informations
-   type: map
-   contents:
-     - name: Full Name
-       value: Thomas F. Allard
-     - name: Birthdate
-       value: 5th January 1997
-     - name: Languages
-       value: French (native), English (fluent), Spanish (intermediate), German (intermediate)
+ # - title: Informations
+ #   type: map
+ #   contents:
+ #     - name: Full Name
+ #       value: Thomas F. Allard
+ #     - name: Birthdate
+ #       value: 5th January 1997
+ #     - name: Languages
+ #       value: French (native), English (fluent), Spanish (intermediate), German (intermediate)
 
 - title: Education
   type: time_table
