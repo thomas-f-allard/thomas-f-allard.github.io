@@ -1,12 +1,12 @@
-# - title: Brief CV
-#   type: map
-#   contents:
+ - title: Informations
+   type: map
+   contents:
 #     - name: Full Name
 #       value: Thomas F. Allard
-#     - name: Date of Birth
-#       value: 5th January 1997
-#     - name: Languages
-#       value: French (native), English (fluent), Spanish (intermediate), German (intermediate)
+     - name: Date of Birth
+       value: 5th January 1997
+     - name: Languages
+       value: French (native), English (fluent), Spanish (intermediate), German (intermediate)
 
 - title: Education
   type: time_table
@@ -28,7 +28,7 @@
       institution: French Ministry of National Education
       year: 2019
       description: 
-        - Competitive examination to be appointed as a physics teacher in secondary schools or universities
+        - Highly competitive examination to be appointed as a physics teacher in secondary schools or universities
 
 
 - title: Experience
@@ -43,8 +43,14 @@
       institution: University of Strasbourg, France
       year: 2023-2024
       description:
-        - Group of Guillaume Weick, in collaboration with David Hagenmüller
+        - Reasearch in the group of Guillaume Weick, in collaboration with David Hagenmüller
         - Teaching assistant for courses of Computer Sciences (1st year), Advanced Classical Mechanics (2nd year) and Statistical Physics (3rd and 4th years) 
+    - title: Doctoral Teaching Assistant
+      institution: University of Strasbourg, France
+      year: 2020-2023
+      description:
+        - Lectures in Mathematics for Physicists (1st year), Lab Works in Physics for Biologists (1st year), Teaching assistant in Computer Sciences (1st year), Advanced Classical Mechanics (2nd year) and Statistical Physics (4th year) 
+
 
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
