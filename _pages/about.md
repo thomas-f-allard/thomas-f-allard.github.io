@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 <p> I am broadyly interested in light-matter interactions, particularly exploring exotic wave phenomena that emerge in unconventional media that could be disordered, topological, polaritonic and/or time-varying. Some of the questions I aim to contribute to are: </p>
 <ul>
-  <li> How does the temporal modulation of a material's response function affect light-matter interactions?
+  <li> How does the temporal modulation of a material's response function may influence light-matter interactions?
 </li>
   <li> How to develop a quantum theory of electrodynamics in a time-varying media, encompassing non-Hermitian and non-reciprocal effects?
 </li>
