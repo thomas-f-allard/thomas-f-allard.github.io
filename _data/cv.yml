@@ -1,8 +1,8 @@
  - title: Informations
    type: map
    contents:
-#     - name: Full Name
-#       value: Thomas F. Allard
+     - name: Full Name
+       value: Thomas F. Allard
      - name: Birthdate
        value: 5th January 1997
      - name: Languages
