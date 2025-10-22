@@ -29,7 +29,7 @@ social: true # includes social icons at the bottom of the page
 <ul>
   <li> How does the temporal modulation of a material's response function may influence light-matter interactions?
 </li>
-  <li> How to develop a quantum theory of electrodynamics in a time-varying media, encompassing non-Hermitian and non-reciprocal effects?
+  <li> How to formulate a quantum theory of electrodynamics in dispersive as well as in time-varying media, encompassing non-Hermitian and non-reciprocal effects?
 </li>
   <li> What are the effects of strong light-matter coupling in disordered or topological materials?
 </li>
