@@ -1,5 +1,3 @@
-A full CV is available <a href="https://thomas-f-allard.github.io/assets/pdf/example_pdf.pdf">here</a>.
-
 ---
 layout: cv
 permalink: /cv/
@@ -11,3 +9,7 @@ description: #This is a description of the page. You can modify it in '_pages/cv
 toc:
   sidebar: left
 ---
+
+A full CV is available <a href="https://thomas-f-allard.github.io/assets/pdf/example_pdf.pdf">here</a>.
+Test
+
