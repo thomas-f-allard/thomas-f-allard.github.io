@@ -9,3 +9,7 @@
 "ACS Photonics":
   url: https://pubs.acs.org/journal/apchd5
   color: "#f1c232"
+
+"Phys. Rev. Lett.":
+  url: https://journals.aps.org/prl/
+  color: "#3AB556"
