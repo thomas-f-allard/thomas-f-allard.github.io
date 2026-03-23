@@ -6,7 +6,8 @@ subtitle: Postdoctoral researcher @ Universidad Autónoma de Madrid
 
 profile:
   align: left
-  image: Screenshot_20251019_231118.png
+  image: IMG_2332.jpg
+  # Screenshot_20251019_231118.png
   image_circular: false # crops the image to make it circular
   more_info: #>
    # <p> thomas.allard at uam.es </p>
