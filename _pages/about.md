@@ -30,7 +30,7 @@ social: true # includes social icons at the bottom of the page
   
 <p> Some of the questions I currently aim to contribute to are: </p>
 <ul>
-  <li> How does the temporal modulation of a material's permittivity may influence light-matter interactions and wave propagation?
+  <li> How does the temporal modulation of a material's permittivity influence light-matter interactions and wave propagation?
 </li>
   <li> How to formulate a quantum and non-linear theory of time-varying photonics?
 </li>
@@ -38,6 +38,6 @@ social: true # includes social icons at the bottom of the page
 </li>
 </ul> 
 
-<p> Keywords: nanophotonics, polaritonics, plasmonics, time-varying media, metamaterials, disorder, topology, non-Hermitian physics, wave scattering </p>
+<p> Keywords: nanophotonics, plasmonics, time-varying media, polaritons, disorder, topology, wave scattering </p>
 
 </div>
